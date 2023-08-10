@@ -1,0 +1,10 @@
+.banner {
+    background-color: #3498db;
+    color: rgb(241, 241, 241);
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  .banner h1 {
+    margin: 0;
+  }
